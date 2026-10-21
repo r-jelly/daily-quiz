@@ -9,9 +9,9 @@
 | 항목 | 값 |
 |---|---|
 | 시작일 | 2026-05-06 |
-| 총 진행일 | 37일 |
-| 총 질문 수 | 111+ 문항 |
-| 커버 주제 | ML 기초 · NLP 기초 · Transformer · Post-training · PEFT · RAG · 추론 최적화 · Context Engineering |
+| 총 진행일 | 36일 |
+| 총 질문 수 | 108문항 |
+| 커버 주제 | ML 기초 · NLP 기초 · Transformer · Post-training · PEFT · RAG · 추론 최적화 |
 
 ---
 
@@ -88,12 +88,6 @@
 |---|---|---|---|---|
 | [06-04](quizzes/2026-06-04.md) | LoRA | 저랭크 분해 원리 | ΔW low-rank & rank r | Merge · QLoRA |
 
-### Context Engineering
-
-| 날짜 | 주제 | Q1 | Q2 | Q3 |
-|---|---|---|---|---|
-| [07-16](quizzes/2026-07-16.md) | Chain-of-Thought | CoT 효과 원리 | Zero-shot vs Few-shot | Self-Consistency |
-
 ---
 
 ## 날짜별 로그
@@ -136,7 +130,6 @@
 | [2026-06-26](quizzes/2026-06-26.md) | ML 기초 · 최적화 | Bias-Variance, 과적합/과소적합 |
 | [2026-06-30](quizzes/2026-06-30.md) | Transformer | Pre-norm vs Post-norm |
 | [2026-07-02](quizzes/2026-07-02.md) | ML 기초 · 최적화 | 가중치 초기화, Xavier, He |
-| [2026-07-16](quizzes/2026-07-16.md) | Context Engineering | Chain-of-Thought, Self-Consistency |
 
 ---
 
